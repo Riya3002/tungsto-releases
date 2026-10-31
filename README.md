@@ -1,2 +1,2 @@
-# tungsto-releases
-tungsto-releases
+# synqmate-releases
+synqmate-releases
